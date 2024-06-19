@@ -16,4 +16,4 @@ To set up your environment to run these exercises, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AmirGhadami/Pytorch.git
+   git clone https://github.com/AmirGadami/Pytorch.git
